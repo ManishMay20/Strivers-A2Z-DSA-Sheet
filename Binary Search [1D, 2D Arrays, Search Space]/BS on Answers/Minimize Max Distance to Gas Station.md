@@ -1,4 +1,4 @@
-Minimize Max Distance to Gas Station
+# Minimize Max Distance to Gas Station
 
 Problem statement
 You are given a sorted array ‘arr’ of length ‘n’, which contains positive integer positions of ‘n’ gas stations on the X-axis.
@@ -96,9 +96,12 @@ Constraints:
 
 Time Limit: 1 sec
 
+---
 
-Solution
+## Solution
 
+
+```
 double minimiseMaxDistance(vector<int> &arr, int k){
 	// Write your code here.
 	int n = arr.size(); //size of array.
