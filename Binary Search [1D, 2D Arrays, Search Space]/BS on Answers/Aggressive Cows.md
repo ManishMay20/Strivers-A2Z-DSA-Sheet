@@ -1,4 +1,4 @@
- Aggressive Cows
+# Aggressive Cows
 
 Problem statement
 You are given an array 'arr' consisting of 'n' integers which denote the position of a stall.
@@ -56,7 +56,12 @@ Constraints :
 0 <= 'arr[i]' <= 10 ^ 9
 Time Limit: 1 sec.
 
-Solutions
+---
+
+## Solution
+
+
+```
 
 int aggressiveCows(vector<int> &arr, int m)
 {

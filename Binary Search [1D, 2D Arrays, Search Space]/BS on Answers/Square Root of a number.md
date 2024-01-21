@@ -1,4 +1,4 @@
-Square Root of a number
+# Square Root of a number
 
 Problem statement
 You are given a positive integer ‘n’.
@@ -39,7 +39,12 @@ Constraints:
 Time Limit: 1 sec.
 
 
-Solutions 
+---
+
+## Solution
+
+
+```
 
 int floorSqrt(int n)
 {

@@ -1,4 +1,4 @@
- Allocate Books
+# Allocate Books
 
 Given an array ‘arr’ of integer numbers, ‘arr[i]’ represents the number of pages in the ‘i-th’ book.
 
@@ -90,7 +90,12 @@ Where ‘n’ denotes the number of books and ‘m’ denotes the number of stud
 Time limit: 1 second
 
 
-solutions
+---
+
+## Solution
+
+
+```
 
 int findPages(vector<int>& arr, int n, int m) {
     // Write your code here.

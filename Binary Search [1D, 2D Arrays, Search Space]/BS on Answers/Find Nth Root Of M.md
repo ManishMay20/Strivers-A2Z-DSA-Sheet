@@ -1,4 +1,4 @@
-Find Nth Root Of M
+# Find Nth Root Of M
 
 Problem statement
 You are given two positive integers 'n' and 'm'. You have to return the 'nth' root of 'm', i.e. 'm(1/n)'. If the 'nth root is not an integer, return -1.
@@ -54,7 +54,12 @@ Constraints:
 Time Limit: 1 sec.
 
 
-Solutions
+---
+
+## Solution
+
+
+```
 
 
 int power(long long mid,int n,int m){
